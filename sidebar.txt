@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pkr:home|Door43 (pkr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pkr|d43-pkr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pkr/archive/master.zip|d43-pkr.zip]]
+
+**Recent Changes**
+{{changes>ns = pkr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pkr|Ethnologue data]]
+
